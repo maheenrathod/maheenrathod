@@ -4,7 +4,7 @@ i'm maheen, a software engineer with an interest in 3d design and animation 📼
 
 <h3 align="left">Let's connect</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maheenrathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maheenrathod" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maheen-rathod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maheenrathod" height="30" width="40" /></a>
 </p>
   
 <!--
