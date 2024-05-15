@@ -1,11 +1,6 @@
 ### hi there!  <img src="https://i.pinimg.com/originals/f4/b7/0d/f4b70d7305cf77487ff1b7eaf8e29ebd.gif" alt="flower gif" width="50" height="50">
 
 i'm maheen, a software engineer with an interest in 3d design and animation 📼
-
-<h3 align="left">Let's connect</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/maheen-rathod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maheenrathod" height="30" width="40" /></a>
-</p>
   
 <!--
 **maheenrathod/maheenrathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
