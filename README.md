@@ -1,6 +1,10 @@
 ### hi there!  <img src="https://i.pinimg.com/originals/f4/b7/0d/f4b70d7305cf77487ff1b7eaf8e29ebd.gif" alt="flower gif" width="50" height="50">
 
-i'm maheen, a software engineer with an interest in 3d design and animation 📼
+i'm maheen, a software engineer with a primary focus on backend development.
+
+with 3+ years of industry experience, i have gained extensive and valuable knowledge on design principles, large-scale products, and automation.
+
+outside of work, my favourite form of escapism is reading -- a lot.
   
 <!--
 **maheenrathod/maheenrathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
