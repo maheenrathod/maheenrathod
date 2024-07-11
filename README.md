@@ -2,7 +2,7 @@
 
 i'm maheen, a software engineer with a primary focus on backend development.
 
-with 3+ years of industry experience, i have gained extensive and valuable knowledge on design principles, large-scale products, and automation.
+with 3+ years of industry experience, i have gained extensive and valuable knowledge on design principles, contributed to large-scale products, and performed automation.
 
 outside of work, my favourite form of escapism is reading -- a lot.
   
